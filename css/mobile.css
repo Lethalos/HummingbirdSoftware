@@ -1,0 +1,30 @@
+/* Main title */
+#main-title{
+    font-size: 2rem;
+}
+
+/* Navbar */
+#navbar{
+    height: auto;
+}
+
+#navbar ul{
+    flex-direction: column;
+    padding: 1rem;
+}
+
+#navbar ul li{
+    padding: 0.3rem;
+    text-align: center;
+}
+
+#navbar ul li a:hover{
+    background-color: transparent;
+    color: #fff;
+    border-radius: 1rem;
+    animation-name: none;
+    animation-duration: 0.75s;
+}
+
+
+

@@ -1,0 +1,8 @@
+/* Footer */
+footer{
+    height: 250px;
+}
+
+footer .copyright {
+    flex-direction: column;
+}
